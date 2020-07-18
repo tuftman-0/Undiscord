@@ -1,6 +1,6 @@
 # Undiscord
 
-Short bash script that reopens discord on crash.
+A short bash script that reopens discord on crash.
 
 
 I'm having an issue where discord randomly crashes, so I made a script to restart it when it crashes.
