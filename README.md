@@ -18,7 +18,7 @@ while true; do discord; done
 ```
 which will just reopen discord regardless of whether or not it crashes, so you'll have to stop the script if you want to close it
 
-BTW, this script should work with pretty much any program just replace discord with the executable that you want to reload on crash.
+BTW, this script should work with pretty much any program, just replace discord with the executable that you want to reload on crash.
 
 credit goes to this stackexchange thread:
 https://askubuntu.com/questions/572820/re-run-an-application-script-when-it-crashes
